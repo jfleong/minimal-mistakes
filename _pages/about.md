@@ -2,7 +2,7 @@
 title: "about"
 layout: single
 sitemap: false
-permalink: /about.html
+permalink: /about
 ---
 
 Beginnings of an about page
