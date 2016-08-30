@@ -1,7 +1,6 @@
 ---
 title: "about"
-layout: single
-sitemap: false
+layout: archive
 permalink: /about
 ---
 
