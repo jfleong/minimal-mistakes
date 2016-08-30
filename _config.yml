@@ -78,9 +78,9 @@ analytics:
 # Site Author
 author:
   name             : "Jason Leong"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  avatar           : "bio-photo.png"
+  bio              : "Just another one of them software people"
+  location         : "Bay Area"
   email            :
   uri              :
   bitbucket        :
