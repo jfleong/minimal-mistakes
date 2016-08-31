@@ -1,9 +1,9 @@
 ---
-title: "Engineers First Blog Post"
+title: "Software Engineer's First Blog Post"
 layout: single
-excerpt: "The First Blog post by Jason Leong"
+excerpt: "We've all come across that perfect Stack Overflow answer that made your day, or that blog post that made everything clear after you had been banging your head on your desk for way more time than you'd admit. Well someone wrote that, so pay them back, and share that problem you solved. One day, who knows when you're gonna help someone with what you shared."
 sitemap: false
-permalink: /engineers-first-post
+permalink: /software-engineers-first-post
 ---
 
 So here it is, I'm starting a blog (again). The story goes as follows... When I got my very first internship as a software engineer, my mentor at the time had mentioned to me that I should do a few things:
