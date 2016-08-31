@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Who is Jason?"
 title_separator          : "-"
-name                     : "Jason Leong"
+name                     : "JLeong"
 description              : "A place to brain dump"
 url                      : https://jfleong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jason Leong"
+  name             : "JLeong"
   avatar           : "bio-photo.png"
-  bio              : "Just another one of them software people"
+  bio              : "Just another one of those software folks"
   location         : "Bay Area"
   email            : "jason.f.leong@gmail.com"
   uri              :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "jfleong"
   vine             :
   weibo            :
   xing             :

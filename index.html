@@ -4,8 +4,11 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h1>Who?What?Why?</h1>
+Who: <a href="/about" class="color: #52adc8a !important">JLeong</a><br>
+What: Mainly a blog or a cool place to serve random sh*t<br>
+Why: Random thoughts from my brain, dumped onto the internet, for you to read =D<br>
+<h1 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h1>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
