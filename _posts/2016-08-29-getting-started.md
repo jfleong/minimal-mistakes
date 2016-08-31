@@ -1,7 +1,7 @@
 ---
 title: "Software Engineer's First Blog Post"
 layout: single
-excerpt: "We've all come across that perfect Stack Overflow answer that made your day, or that blog post that made everything clear after you had been banging your head on your desk for way more time than you'd admit. Well someone wrote that, so pay them back, and share that problem you solved. One day, who knows when you're gonna help someone with what you shared."
+excerpt: "Why should I blog as a Software Engineer? Circle of life... that's why"
 sitemap: false
 permalink: /software-engineers-first-post
 ---
