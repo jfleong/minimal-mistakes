@@ -28,4 +28,8 @@ More specifically the feeling that the content that I generate would not be "sma
 
 # What will is this blog and why should you read it?
 
-I am creating this blog to post anything related to my career as a software developer. Whether that be a technical finding/trick/hack that I think is worth sharing with the world or a social finding/trick/hack as I learn to work with different types of people and manage my own career development.
+I am creating this blog to post anything related to my career as a software developer. Posts will include (but not limited to):
+
+* Technical finding/trick/hack that helped me solve problems (that's what engineers do right?)
+* Non-technical finding/trick/hack that helps me work well with different types of people
+* Anything else that I learn as I manage my own career development.
