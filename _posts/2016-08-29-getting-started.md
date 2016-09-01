@@ -8,11 +8,17 @@ permalink: /software-engineers-first-post
 
 So here it is, I'm starting a blog (again). The story goes as follows... When I got my very first internship as a software engineer, my mentor at the time had mentioned to me that I should do a few things:
 
-* Learn how to ask a question (I lost the article as it was many years ago but I will be posting an article about this in the future)
-* Read 1 book (<a  href="https://www.amazon.com/gp/product/020161622X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020161622X&linkCode=as2&tag=onespeed-20&linkId=e287c6f5d30b5c9fe925a6993ab57887">The Pragmatic Programmer</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=onespeed-20&l=am2&o=1&a=020161622X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)
+* Read an article (that I lost the link to) and learn how to ask a question
+* Read  <a  href="https://www.amazon.com/gp/product/020161622X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020161622X&linkCode=as2&tag=onespeed-20&linkId=e287c6f5d30b5c9fe925a6993ab57887">The Pragmatic Programmer</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=onespeed-20&l=am2&o=1&a=020161622X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * Start blogging.
 
-So I did all three of these, why wouldn't I? **LISTEN TO YOUR MENTORS FOLKS**, there's a reason they signed up to be your mentor. I learned how to ask a question, I read the book, and started a blog. The only one that required ongoing commitment was the blog and that quickly died for reasons I can't remember. I'm gonna guess that I was "too busy" or that I was generating "noob content". In either case now that I am older (and not necessarily wiser) I am going to start blogging again.
+So I did all three of these, why wouldn't I? **LISTEN TO YOUR MENTORS FOLKS**, there's a reason they signed up to be your mentor.
+
+I learned how to ask a question. I will be writing a post about this in the future once I can get to it. In the meantime the gist of it is that if you exhaust all your resources before asking the question, no question is unwarranted.
+
+I read the book, or at least most of it. It basically talks about principles and guidelines that you should follow and those all can be found <a href="https://blog.codinghorror.com/a-pragmatic-quick-reference/" target="_blank">here</a>. Looking at the quick reference guide again makes me want to pick the book up again. Now that I have been working in the industry for a while let's see if I have actually been following these principles or there are things that I should be doing.
+
+And finally, yes, I started a blog. The only one that required ongoing commitment and that quickly died for reasons I can't remember. I'm gonna guess that I was "too busy" or that I was generating "noob content". In either case now that I am older (and not necessarily wiser) I am going to start blogging again.
 
 # What changed? Why am I starting this back up?
 
