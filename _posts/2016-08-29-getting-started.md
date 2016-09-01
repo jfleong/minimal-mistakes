@@ -24,7 +24,7 @@ Yet... it took me a couple of days to write this post. After thinking about it f
 
 > *Impostor syndrome can be defined as a collection of feelings of inadequacy that persist even in face of information that indicates that the opposite is true. It is experienced internally as chronic self-doubt, and feelings of intellectual fraudulence. -([reference](https://counseling.caltech.edu/general/InfoandResources/Impostor))*
 
-More specifically the feeling that the content that I generate would not be "smart" enough for the interwebz. Even while writing this post I have erased entire paragraphs multiple times as my mind keeps thinking that what I'm writing is garbage. It's something that I am constantly working on and hopefully this blog will help me get over that gnarly, unproductive disease.
+More specifically the feeling that the content that I generate would not be "smart" enough for the interwebz. I need to learn to trust myself, be confident with all the decisions I make, and stop second guessing everything I do. For example even while writing this post I have erased entire paragraphs multiple times as my mind keeps thinking that what I'm writing is garbage. It's something that I am constantly working on and hopefully this blog will help me get over that gnarly, unproductive disease.
 
 # What will is this blog and why should you read it?
 
