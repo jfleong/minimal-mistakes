@@ -2,9 +2,8 @@
 main:
   - title: "About"
     url: /about
-# XXX TODO: figure out how this shit works
-#   - title: "Posts"
-#     url: /year-archive/
+  - title: "Posts"
+    url: /arhive/year
 #
 #   - title: "Categories"
 #     url: /categories/
