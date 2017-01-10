@@ -32,7 +32,7 @@ Yet... it took me a couple of days to write this post. After thinking about it f
 
 More specifically the feeling that the content that I generate would not be "smart" enough for the interwebz. I need to learn to trust myself, be confident with all the decisions I make, and stop second guessing everything I do. For example even while writing this post I have erased entire paragraphs multiple times as my mind keeps thinking that what I'm writing is garbage. It's something that I am constantly working on and hopefully this blog will help me get over that gnarly, unproductive disease.
 
-# What will is this blog and why should you read it?
+# What is this blog and why should you read it?
 
 I am creating this blog to post anything related to my career as a software developer. Posts will include (but not limited to):
 
