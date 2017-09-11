@@ -28,7 +28,7 @@ Equifax is one of the three major credit reporting agencies within the United St
 # Some info on credit freezes
 * A credit freeze does not affect your credit score.
 * Yes you can still use your current credit cards and bank accounts.
-* Then what does it do?* this basically stops people from pulling your credit report, so when the thieves try to open a new account they can't.
+* Then what does it do? This basically stops people from pulling your credit report, so when the thieves try to open a new account they can't.
 * reference articles
   * https://www.consumer.ftc.gov/articles/0497-credit-freeze-faqs
   * https://www.oag.ca.gov/idtheft/facts/freeze-your-credit)
