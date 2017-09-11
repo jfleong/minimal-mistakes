@@ -13,7 +13,7 @@ Freeze your credit and Monitor your financial accounts.
 It's all over the news, but if you haven't heard, Equifax had a database breach which basically puts everyone in the United States with a credit history at risk for identity theft. They claim 143 Million Americans have been affected and provide a tool for people to check if they've been affected. But I think it's safe to say that everyone is affected by this. They are also providing some identity theft protection which you may choose to sign up for (currently there is a clause in the signup that waives you from participating in any class action lawsuits that may occur which you definitely want to be a part of if it does come to that.)
 
 here is one of the articles for reference:
-[How-to-Protect-Yourself-From-the-Equifax-Security-Breech](http://www.nbcdfw.com/news/local/How-to-Protect-Yourself-From-the-Equifax-Security-Breech--443315033.html)
+[Protect-Yourself-Equifax-Data-Breach](https://www.nerdwallet.com/blog/finance/protect-yourself-equifax-data-breach/)
 
 ## What or who is Equifax?
 Equifax is one of the three major credit reporting agencies within the United States, the other two being Experian and Transunion. Basically these guys own our financial lives.
