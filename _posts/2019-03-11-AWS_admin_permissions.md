@@ -1,13 +1,13 @@
 ---
-title: "Grant AWS Admin Permissions on a Specific Resource"
+title: "Grant AWS Permissions on a Specific Resource"
 layout: single
-excerpt: "We should always grant access based on a principle of least privilege. In AWS (Amazon Web Services) you can grant something:* on a very specific resource, that should be admin permissions right? Well in some cases it doesn't... "
+excerpt: "Always grant access based on a principle of least privilege. In AWS (Amazon Web Services) you can grant something:* on a very specific resource, that should be admin permissions right? Well in some cases it is not ... "
 sitemap: false
-permalink: /granting-aws-admin-permissions-specific-resource
+permalink: /grant-aws-permissions-specific-resource
 ---
 
 # TL;DR
-In some cases, to grant admin access for a specific AWS resource you may also need to grant read only access to all resources.
+In some cases, to grant access for a specific AWS resource you may also need to grant read only access to all resources.
 
 # Background
 Who am I? Why am I even writing this? What broke that inspired this post.
