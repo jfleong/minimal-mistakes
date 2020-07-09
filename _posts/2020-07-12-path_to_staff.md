@@ -57,9 +57,9 @@ The main reason i was able to kick the imposter syndrome and get that promotion 
 There are many paths to becoming a high level engineer. In the end it all comes down to **providing value in a scalable manner**. What that value is comes in many shapes and colors. You must operate with confidence, in a drivers before solutions manner to work together to build great software. We engineers are always learning and building these T-shaped skills as engineers and we need stay passionate about what we are working on to reach our full potential.
 
 # Takeaways
-  * There are different vehicles (work you can do) to get to that next level
-  * High performing engineers are ultimately force multipliers.
-  * Don't be afraid to get fired, trust your knowledge and experience and operate with confidence.
+* There are different vehicles (work you can do) to get to that next level.
+* High performing engineers are ultimately force multipliers.
+* Don't be afraid to get fired, trust your knowledge and experience and operate with confidence, in a drivers before solutions manner.
 
 [staff_resources]: https://lethain.com/staff-plus-eng-resources/
 [first_blog_post]: https://who.isjason.com/software-engineers-first-post
